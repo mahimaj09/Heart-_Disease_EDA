@@ -62,16 +62,6 @@ The following visualizations were created during the analysis:
 
 ---
 
-## 📌 Future Improvements
-
-- Perform feature engineering
-- Build machine learning models for heart disease prediction
-- Compare classification algorithms
-- Create an interactive Power BI dashboard
-- Deploy the project using Streamlit
-
----
-
 ## 👩‍💻 Author
 
 **Mahima Jain**
@@ -81,6 +71,7 @@ The following visualizations were created during the analysis:
 **Skills:** Python | SQL | Power BI | Excel | Pandas | NumPy | Data Visualization | Business Analytics
 
 ---
+
 Connect with Me: https://www.linkedin.com/in/mahima-jain-b97709331/
 
 ⭐ **If you found this project helpful, feel free to star this repository!**
